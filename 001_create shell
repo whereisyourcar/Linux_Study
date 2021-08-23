@@ -1,0 +1,16 @@
+#!/bin/bash
+# This script displays the date and who's logged on
+#创建一个shell并显示日期和登陆者姓名
+
+date
+who
+
+
+
+
+
+
+
+
+
+
