@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Please enter the username of the user"
+echo -e "account you wish to delete from system: \c"
+
+
+
+
+
+
